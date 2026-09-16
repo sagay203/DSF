@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/DSF_Scholarship_Portal.html" }
+  ]
+}
