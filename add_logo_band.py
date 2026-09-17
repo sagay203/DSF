@@ -24,7 +24,7 @@ import sys
 from datetime import datetime
 
 # ---------------------------------------------------------------
-PORTAL_NAME = "DSF Scholarship Compass"
+PORTAL_NAME = "DSF Scholarship Buddy"
 WEBSITE      = "www.dsfindia.org"
 TAGLINE_LINK = "https://www.dsfindia.org"
 LOGO = "DSF_Logo_CMYK_300ppi-Slogan.png"

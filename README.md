@@ -1,4 +1,4 @@
-# DSF Scholarship Compass
+# DSF Scholarship Buddy
 
 A searchable directory of **141 scholarship schemes** available to students in Karnataka for the academic year 2026–27, built by [Dream School Foundation](https://www.dsfindia.org).
 
